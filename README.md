@@ -30,3 +30,5 @@ https://cdn.jsdelivr.net/gh/ljt033/iptv-zh@main/iptv-quanqiu-zh.m3u
 
 来源：https://github.com/iptv-org/iptv（公开免费频道，不含付费台）
 翻译快照：2026-11-27
+
+标清流畅版：iptv-quanqiu-sd-zh.m3u（只保留 360p/480p 等低码率的台，共 1,663 个，文件 350K，网慢时看这个更流畅；今日美国、24小时、法国24 等新闻大台只有高清版，不在这个文件里）
